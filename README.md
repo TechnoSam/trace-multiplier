@@ -5,11 +5,15 @@ Given a trace file input, generate a trace file output with a given
 multiplier. Useful in CS 3214 malloc-lab.
 
 positional arguments:
+
   INPUT_FILE   The original trace file
+
   MULTIPLIER   The multiplier to use
+
   OUTPUT_FILE  The new trace file
 
 optional arguments:
+
   -h, --help   show this help message and exit
 
 # Notes

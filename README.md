@@ -19,6 +19,8 @@ optional arguments:
 # Notes
 Written with Python 3.6.0
 
+Verified on Python 2.7.5 (version on CS rlogin at time of writing)
+
 Included binary-bal.rep example file with binary3-bal.rep output from running
 ```
 python tmult.py binary-bal.rep 0.75 binary3-bal.rep
